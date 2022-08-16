@@ -26,7 +26,7 @@
         your game and a set of underscores to represent the length of the word you are to guess. You will enter a letter in the guess text box and once you click submit, if the letter is correct, it will appear in the word at the bottom. If the letter is incorrect, it 
         will list it in the incorrect guess section and add a piece to your Hangman's noose. You will have the ability to play over and over as you desire or logout when you are finished.</p>
         
-        <h4>Struggles</h4>
+        <h4>Struggles:</h4>
         <p>There were some big learning curves in this project as I had never worked in PHP before. I spent a good majoriety of my time learning the language as I strived to implement it. This game is still under development to get the leaderboard complete as the task 
         of passing session variables back and forth was a struggle. Below you will see some of the code base that I worked on and see some of the complexity of the language.</p>
 
