@@ -10,7 +10,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
-                    <img src="Images/HangmanGame.pnh" alt="Hangman Game" class="border img-fluid" width="100%">
+                    <img src="Images/HangmanGame.png" alt="Hangman Game" class="border img-fluid" width="100%">
                     <p style="color:white">The main game page.</p>
                 </div>
                 <div class="col-md-5 px-1">
