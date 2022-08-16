@@ -10,11 +10,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
-                    <img src="Portfolio/Images/HangmanGame.pnh" alt="Hangman Game" class="border img-fluid" width="100%">
+                    <img src="Images/HangmanGame.pnh" alt="Hangman Game" class="border img-fluid" width="100%">
                     <p style="color:white">The main game page.</p>
                 </div>
                 <div class="col-md-5 px-1">
-                    <img src="Portfolio/Images/HangmanGame1.png" alt="Hangman Game" class="border img-fluid" width="100%">
+                    <img src="Images/HangmanGame1.png" alt="Hangman Game" class="border img-fluid" width="100%">
                     <p style="color:white">The popup when you lose.</p>
                 </div>
             </div>
