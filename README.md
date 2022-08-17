@@ -3,6 +3,11 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <p><a class="btn btn-secondary" href="https://gkarma5523.github.io/Portfolio/" role="button"><--Back</a></p>
         <h2>Hangman the Game</h2>
+        <style>
+            .imageContainer > img:hover {
+                width: 500px;
+            }
+        </style>
     </head>
     <body>
         <p style="color:white">The development of Hangman was a good introduction to PHP as that is what the functionality is written in. Supporting the HTML markdown language, this project was developed and hosted through the free web/database host InfinityFree. 
@@ -11,7 +16,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
-                    <img src="Images/HangmanGame.png" alt="Hangman Game" class="border img-fluid" width="100%">
+                    <div class="imgcontainer">
+                        <img src="Images/HangmanGame.png" alt="Hangman Game" class="border img-fluid" width="100%">
+                    </div>
                     <p style="color:white">The main game page</p>
                 </div>
                 <div class="col-md-5 px-1">
