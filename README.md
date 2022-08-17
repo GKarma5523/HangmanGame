@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
-                    <div class="imgcontainer">
+                    <div class="imageContainer">
                         <img src="Images/HangmanGame.png" alt="Hangman Game" class="border img-fluid" width="100%">
                     </div>
                     <p style="color:white">The main game page</p>
