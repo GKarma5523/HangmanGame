@@ -12,11 +12,11 @@
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
                     <img src="Images/HangmanGame.png" alt="Hangman Game" class="border img-fluid" width="100%">
-                    <p style="color:white">The main game page.</p>
+                    <p style="color:white">The main game page</p>
                 </div>
                 <div class="col-md-5 px-1">
                     <img src="Images/HangmanGame1.png" alt="Hangman Game" class="border img-fluid" width="100%">
-                    <p style="color:white">The popup when you lose.</p>
+                    <p style="color:white">The popup when you lose</p>
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-5 px-1">
                     <img src="Images/HangmanCode1.png" alt="Hangman Game Code" class="border img-fluid" width="100%">
-                    <p style="color:white">The HTML code designing the page.</p>
+                    <p style="color:white">The HTML code designing the page</p>
                 </div>
             </div>
         </div>
